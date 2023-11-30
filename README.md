@@ -1,11 +1,11 @@
-# Interdepartmental Migration Balance per 1,000 Inhabitants\nin the Trenque Lauquen Region (2012-2022)
+# Interdepartmental Migration Balance per 1,000 Inhabitants in the Trenque Lauquen Region (2012-2022)
 
 This repository contains an R code that generates an interactive map and a table illustrating the internal migration rate per 1,000 inhabitants in the Trenque Lauquen district, Argentina, and districts located up to 200 km away.
 The R code responsible for generating this map is available [here](https://github.com/marcoscarloseduardo/renaper-chart-map/blob/main/main.R)
 
 Access the Interactive Map
 The generated map offers interactivity by hovering the mouse pointer over the departments or districts, providing relative migration values. Additionally, the bottom table allows highlighting a specific department on the map.
-Click [here](https://github.com/marcoscarloseduardo/renaper-chart-map/blob/main/chart-map.html) to access the interactive map.
+Click [here](https://marcoscarloseduardo.github.io/) to access the interactive map.
 
 ## Map Preview
 <p align="center">

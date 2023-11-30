@@ -1,10 +1,10 @@
 # Interdepartmental Migration Balance per 1,000 Inhabitants in the Trenque Lauquen Region (2012-2022)
 
 This repository contains an R code that generates an interactive map and a table illustrating the internal migration rate per 1,000 inhabitants in the Trenque Lauquen district, Argentina, and districts located up to 200 km away.
-The R code responsible for generating this map is available [here](https://github.com/marcoscarloseduardo/renaper-chart-map/blob/main/main.R)
+The R code responsible for generating this map is available [here](https://github.com/marcoscarloseduardo/renaper-chart-map/blob/main/main.R).
 
 Access the Interactive Map
-The generated map offers interactivity by hovering the mouse pointer over the departments or districts, providing relative migration values. Additionally, the bottom table allows highlighting a specific department on the map.
+The generated map offers interactivity by hovering the mouse pointer over the departments or districts, providing relative migration values. Additionally, the bottom table allows highlighting a specific department on the map.  
 Click [here](https://marcoscarloseduardo.github.io/) to access the interactive map.
 
 ## Map Preview
@@ -28,8 +28,6 @@ The study's universe consists of individuals residing in Argentina who changed t
 Migration Balance: It is the difference between the number of immigrants and emigrants.
 
 ## Credits
-This code is based on a contribution shared by Kyle Walker (@kyle_e_walker), who, in turn, drew inspiration from a visualization of U.S. census data on the percentage of workers working from home.
+This code is based on a contribution shared by [Kyle Walker](@kyle_e_walker), who, in turn, drew inspiration from a visualization of U.S. census data on the percentage of workers working from home.
 
-Special thanks to Kyle Walker for his valuable contribution.
-
-Note: This analysis utilizes RENAPER data and focuses on internal migration in Argentina during the mentioned period.
+<i>Note</i>: This analysis utilizes RENAPER data and focuses on internal migration in Argentina during the mentioned period.
